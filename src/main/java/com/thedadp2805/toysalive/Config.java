@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.thedadp2805.toysalive;
 
 import java.util.List;
 import java.util.Set;

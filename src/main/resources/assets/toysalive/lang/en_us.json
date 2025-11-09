@@ -1,0 +1,13 @@
+{
+  "itemGroup.toysalive": "Example Mod Tab",
+  "block.toysalive.example_block": "Example Block",
+  "item.toysalive.example_item": "Example Item",
+
+  "toysalive.configuration.title": "Toys Alive Configs",
+  "toysalive.configuration.section.toysalive.common.toml": "Toys Alive Configs",
+  "toysalive.configuration.section.toysalive.common.toml.title": "Toys Alive Configs",
+  "toysalive.configuration.items": "Item List",
+  "toysalive.configuration.logDirtBlock": "Log Dirt Block",
+  "toysalive.configuration.magicNumberIntroduction": "Magic Number Text",
+  "toysalive.configuration.magicNumber": "Magic Number"
+}
