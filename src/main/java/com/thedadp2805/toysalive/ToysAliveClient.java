@@ -25,7 +25,7 @@ public class ToysAliveClient {
     @SubscribeEvent
     static void onClientSetup(FMLClientSetupEvent event) {
         // Some client setup code
-        ToysAlive.LOGGER.info("HELLO FROM CLIENT SETUP");
+        ToysAlive.LOGGER.info("ToysAlive se esta iniciando - Client");
         ToysAlive.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
     }
 }
